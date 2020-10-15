@@ -1,5 +1,5 @@
 .login-pf body {
-    background: url("../img/name.jpg") no-repeat center center fixed;
+    background: url("../img/backgroud_1.png") no-repeat center center fixed;
     background-size: cover;
     height: 100%;
 }
@@ -348,7 +348,7 @@ a.zocial  {
       background: black;
     }
 
-    #kc-header {ack
+    #kc-header {
         padding-left: 15px;
         padding-right: 15px;
         float: none;
